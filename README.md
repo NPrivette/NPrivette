@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NPrivette
-- 👀 I’m interested in Music, Reading, Archey, Remodeling, Cooking, Chess, Women, Philosophy...
-- 🌱 I’m currently learning how to narrow my focus.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me: don't for now.
+- 👀 I’m interested in Music, Reading, Archey, Remodeling, Cooking, Chess, Philosophy...
+- 🌱 I’m currently learning how to program in python.
+- 💞️ I’m looking to collaborate on anything possible.
+- 📫 How to reach me: nprivette14@gmail.com.
 
 <!---
 NPrivette/NPrivette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
