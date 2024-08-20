@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NPrivette
-- 👀 I’m interested in web developement and iOS/Macz
+- 👀 I’m interested in web and iOS/Mac development.
 - Right now I'm learning Flask and have decent foundation with Python. 
 - I'm looking to work on open source issues and build cool projects for my portfolio.
 - Most of my pet projects revolve around music. 
